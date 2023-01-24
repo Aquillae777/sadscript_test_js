@@ -1,21 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset='utf-8'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>Page Title</title>
-    <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
-    <script src='main.js'></script>
-</head>
-<body>
-    
-</body>
-<script>
-    var frutas = ['Laranja', 'Uva', 'Limão'];
-
-
-var alunos = [ ];  //array vazio
+r alunos = [ ];  //array vazio
 var alunos = ['Alex', 'Anna', 'João']; // array de strings
 var notas = [10.0, 9.5, 9.5]; //array de números decimais
 var mistura = ['Um', 2, 3, 'Quatro']; //array de diversos tipos de dados
@@ -62,6 +45,3 @@ var mistura = ['Um', 2, 3, 'Quatro']; //array de diversos tipos de dados
  alert(primos.length); //imprimirá 7
  primos.length = 4;
  alert(primos.length); //imprimirá 4
-
-</script>
-</html>
